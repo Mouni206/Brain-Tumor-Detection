@@ -12,7 +12,7 @@ try:
 except Exception as e:
     st.error(f"❌ Error loading model: {e}")
 
-class_names = ['glioma', 'meningioma', 'notumor', 'pituitary']
+class_names = ['glioma', 'meningioma', 'no tumor', 'pituitary']
 
 
 st.title('🧠 Brain Tumor Classification')
