@@ -4,4 +4,4 @@ The dataset used is from Kaggle Brain Tumor Dataset, which includes MRI images c
 glioma,
 meningioma,
 pituitary and
-notumor
+no tumor
